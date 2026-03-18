@@ -4,7 +4,7 @@
 #   github.com/USERNAME/REPO  ← ganti ini
 # ─────────────────────────────────────────────────
 
-GITHUB_RAW="https://raw.githubusercontent.com/USERNAME/REPO/main"
+GITHUB_RAW="https://github.com/chanelog/Ogh/raw/main/main.go"
 MAIN_GO_URL="$GITHUB_RAW/main.go"
 
 RED='\033[0;31m'
